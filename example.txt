@@ -1,1 +1,1 @@
-Example text into file example.txt
+Example information to file example.txt, adding text to understand confict
