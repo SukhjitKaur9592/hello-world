@@ -1,0 +1,1 @@
+Example text into file example.txt
